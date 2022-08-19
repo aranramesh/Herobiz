@@ -1,0 +1,18 @@
+.container{
+    width: 1300px;
+    margin: auto;
+    
+}
+header {
+    display: flex;
+    justify-content: space-between;
+}
+nav{
+    display: flex;
+
+}
+nav ul{
+    float: right;
+    display: flex;
+    justify-content: space-between;
+}
